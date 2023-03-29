@@ -16,11 +16,11 @@ Check the following version on pom.xml file
 
   mvn install
 
-# Start up Application
+## Start up Application
 
   mvn spring-boot:run
 
-# Usage
+## Usage
 
 Connect to the following url:
 
